@@ -48,9 +48,7 @@ Two baseline images are included for use with the grid overlay. One is at 20px a
 
 ## Grid
 
-The bones for creating a fluid grid using nice round numbers are already present in the template, and an overlay is provided for use in development. You can turn the overlay off by setting `display: none;` on `#overlay` in `_grid.kit`, or by turning off the import for that file.
-
-You should always build a grid that fits your design so this is only provided as an example. I'll be writing about building fluid grids soon, but theres some very sparce info [here](http://blog.dasmith.co.uk/post/24476543889/simple-responsive-grid). 
+The bones for creating a fluid grid using nice round numbers are already present in the template, and an overlay is provided for use in development. You can turn the overlay off by setting `display: none;` on `#overlay` in `_grid.kit`, or by turning off the import for that file. You should always build a grid that fits your design so this is only provided as an example.
 
 ## HTML5 Boilerplate Version
 
